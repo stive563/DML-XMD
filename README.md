@@ -6,14 +6,14 @@
 </p>
 
 <p align="center">
-  <img alt="DML-MD" width="700" height="300" src="https://files.catbox.moe/vcdwmp.jpg">
+  <img alt="DML-XMD" width="700" height="300" src="https://files.catbox.moe/vcdwmp.jpg">
 </p>
 
 ## 📊 GitHub Stats
 <p align="center">
-  <a href="https://github.com/MLILA17/DML-MD">
-    <img src="https://github-readme-stats.vercel.app/api?username=MLILA17&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" width="400">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MLILA17&theme=dark&fire=FF6347&currStreakNum=1BAFBA" alt="Streak Stats" width="400">
+  <a href="https://github.com/MLILA05/DML-XMD">
+    <img src="https://github-readme-stats.vercel.app/api?username=MLILA05&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" width="400">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MLILA05&theme=dark&fire=FF6347&currStreakNum=1BAFBA" alt="Streak Stats" width="400">
 
   
   </a> 
@@ -28,8 +28,8 @@
 ### 🔹 Step 1: Fork & Star This Repo
 Help support the project by clicking the buttons below. Fork it to your GitHub and give it a star!
 
-[![Fork](https://img.shields.io/github/forks/MLILA17/DML-MD?label=Fork&style=for-the-badge&logo=git)](https://github.com/MLILA17/DML-MD/fork)
-[![Star](https://img.shields.io/github/stars/MLILA17/DML-MD?label=Star&style=for-the-badge&logo=github)](https://github.com/MLILA17/DML-MD/stargazers)
+[![Fork](https://img.shields.io/github/forks/MLILA05/DML-XMD?label=Fork&style=for-the-badge&logo=git)](https://github.com/MLILA17/DML-XMD/fork)
+[![Star](https://img.shields.io/github/stars/MLILA05/DML-XMD?label=Star&style=for-the-badge&logo=github)](https://github.com/MLILA05/DML-XMD/stargazers)
 
 
 ---
@@ -37,9 +37,9 @@ Help support the project by clicking the buttons below. Fork it to your GitHub a
 ### 🔹 Step 2: Generate Session ID
 You need a session to connect your bot. Choose your preferred method:
 
-[![Scan QR Code](https://img.shields.io/badge/SCAN_QR-FF6347?style=for-the-badge&logo=qr-code&logoColor=white)](https://dml-md-sessions.onrender.com/wasiqr) 
+[![Scan QR Code](https://img.shields.io/badge/SCAN_QR-FF6347?style=for-the-badge&logo=qr-code&logoColor=white)](https://zokou-session.onrender.com/wasiqr) 
 
-[![Pair Device](https://img.shields.io/badge/GET_PAIR_CODE-1BAFBA?style=for-the-badge&logo=connectdevelop&logoColor=white)](https://dml0-md-session.onrender.com)
+[![Pair Device](https://img.shields.io/badge/GET_PAIR_CODE-1BAFBA?style=for-the-badge&logo=connectdevelop&logoColor=white)](https://zokou-session.onrender.com)
 
 ---
 
