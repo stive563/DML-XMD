@@ -1,9 +1,9 @@
 {
-  "name":"DML-MD",
+  "name":"DML-XMD",
   "description":"An Advanced Whatsapp bot 🚀 built for fast automation, media tool, and smooth group management developed by Daudy Musa",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://files.catbox.moe/vcdwmp.jpg",
-  "repository":"https://github.com/MLILA17/DML-MD",
+  "repository":"https://github.com/MLILA05/DML-XMD",
   "succes_url":"/",
   "stack":"heroku-24",
   "env":{
@@ -58,7 +58,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"DML-MD",
+      "value":"DML-XMD",
       "required":false
 
     } ,
