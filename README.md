@@ -46,7 +46,7 @@ You need a session to connect your bot. Choose your preferred method:
 ### 🔹 Step 3: Deploy with One Click
 Easily deploy to Heroku with the button below:
 
-[![Deploy](https://img.shields.io/badge/DEPLOY_TO_HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://dml-bot.vercel.app/)
+[![Deploy](https://img.shields.io/badge/DEPLOY_TO_HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/MLILA05/DML-XMD)
 
 </div>
 
