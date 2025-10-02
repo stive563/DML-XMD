@@ -1,4 +1,4 @@
-<h2 align="center" style="color: #FF6347; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); animation: glow 2s infinite alternate;">🔰WELCOME TO DML-MD🔰</h2>
+<h2 align="center" style="color: #FF6347; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); animation: glow 2s infinite alternate;">WELCOME TO DML-XMD</h2>
 <h3 align="center" style="color: #1BAFBA; font-weight: bold;">Powerful WhatsApp Bot for Tanzania</h3>
 
 <p align="center">
@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img alt="DML-XMD" width="700" height="300" src="https://files.catbox.moe/vcdwmp.jpg">
+  <img alt="DML-XMD" width="700" height="300" src="https://files.catbox.moe/emdr5h.jpg">
 </p>
 
 ## 📊 GitHub Stats
@@ -58,14 +58,14 @@ Easily deploy to Heroku with the button below:
   <a href="https://chat.whatsapp.com/FunyTxSwaKI7E5Q4z8YGbS">
     <img src="https://img.shields.io/badge/JOIN_WHATSAPP_GROUP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="250">
   </a>
-  <a href="https://whatsapp.com/channel/0029Vb2hoPpDZ4Lb3mSkVI3C">
+  <a href="https://whatsapp.com/channel/0029VbBTnYe4yltFjGWi8K1g">
     <img src="https://img.shields.io/badge/WHATSAPP_CHANNEL-075E54?style=for-the-badge&logo=whatsapp&logoColor=white" width="250">
   </a>
 </p>
 
 ---
 
-<h3 align="center" style="color: #FF6347; animation: pulse 1.5s infinite;">⚡ OFFICIAL RELEASE v3.0 ⚡</h3>
+<h3 align="center" style="color: #FF6347; animation: pulse 1.5s infinite;">🔥OFFICIAL RELEASE v4.0 🔥</h3>
 
 ## ⚠️ Important Notice
 ```diff
