@@ -27,7 +27,7 @@ module.exports = { session: process.env.SESSION_ID || '',
     ANTIDELETE1 : process.env.ANTI_DELETE_MESSAGE || 'yes',
     AUTO_REACT : process.env.AUTO_REACT || 'no',
     AUTO_REACT : process.env.AUTO_REACT || 'no',              
-    AUTO_REACT_STATUS : process.env.AUTO_REACT_STATUS || 'yes',
+    AUTO_REACT_STATUS : process.env.AUTO_REACT_STATUS || 'no',
     AUTO_READ : process.env.AUTO_READ || 'no',
     DATABASE_URL,
     DATABASE: DATABASE_URL === databasePath
